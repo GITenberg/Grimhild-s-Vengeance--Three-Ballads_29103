@@ -1,0 +1,46 @@
+_repo: Grimhild-s-Vengeance--Three-Ballads_29103
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Borrow, George
+    alias: Borrow, George Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '4383'
+    url: http://www.gutenberg.org/2009/agents/4383
+    wikipedia: http://en.wikipedia.org/wiki/George_Borrow
+  editors:
+  - agent_name: Wise, Thomas James
+    alias: Wise, Thomas J. (Thomas James)
+    birthdate: 1859
+    deathdate: 1937
+    gutenberg_agent_id: '31678'
+    url: http://www.gutenberg.org/2009/agents/31678
+    wikipedia: http://www.encyclopedia.com/topic/Thomas_James_Wise.aspx
+  - agent_name: Gosse, Edmund
+    aliases:
+    - Gosse, Edmund W. (Edmund William)
+    - Gosse, Edmund William, Sir
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '959'
+    url: http://www.gutenberg.org/2009/agents/959
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
+description: ''
+gutenberg_issued: '2009-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29103'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ballads'
+- !lcsh 'Poetry'
+- !lcc 'PR'
+title: 'Grimhild''s Vengeance: Three Ballads'
+url: http://www.gutenberg.org/ebooks/29103
